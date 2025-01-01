@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Rickshaw",
+        "type": "BMW",
+        "price": "10000",
+        "image": "https:\/\/articles.unesco.org\/sites\/default\/files\/2023-12\/17082-HUG%20%281%29.jpg"
+    },
+    {
+        "name": "Greenline",
+        "type": "Bus",
+        "price": "1000000",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/13\/Bangladesh_Army_Hyundai_Universe_bus_%2828759124922%29.jpg\/800px-Bangladesh_Army_Hyundai_Universe_bus_%2828759124922%29.jpg"
+    }
+]
